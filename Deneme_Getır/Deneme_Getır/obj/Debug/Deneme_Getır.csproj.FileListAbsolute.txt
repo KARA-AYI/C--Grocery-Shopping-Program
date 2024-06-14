@@ -1,0 +1,44 @@
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.exe.config
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.pdb
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.AssemblyReference.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form1.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Properties.Resources.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.GenerateResource.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.CoreCompileInputs.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.pdb
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form2.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form10.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form11.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form3.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form4.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form5.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form6.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form7.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form8.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form9.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form12.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form13.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.AssemblyReference.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form1.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form10.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form11.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form12.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form13.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form2.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form3.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form4.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form5.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form6.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form7.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form8.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Form9.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.Properties.Resources.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.GenerateResource.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.csproj.CoreCompileInputs.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\obj\Debug\Deneme_Getır.pdb
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.exe.config
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\KENDİ UYGULAMALARIM\Deneme_Getır\Deneme_Getır\bin\Debug\Deneme_Getır.pdb
